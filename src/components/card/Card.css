@@ -1,0 +1,45 @@
+
+
+.card {
+    background: rgb(222, 222, 222);
+    width: 270px;
+    height: 320px;
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.card-photo {
+    width: 100px;
+    border-radius: 50px;
+
+}
+
+.info {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info h4 {
+    margin: 0px;
+
+}
+
+.button {
+    background-color: rgb(8, 255, 173);
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: medium;
+}
+
+.button:hover {
+    background-color: rgb(3, 203, 136);
+    transition: .3s;
+}
+
+.card-details{
+    width: 350px;
+}
