@@ -1,11 +1,14 @@
 
 
 .card {
-    background: rgb(222, 222, 222);
+    background: rgb(74, 73, 73);
     width: 270px;
     height: 320px;
     border: 1px solid gray;
     margin: 10px;
+    border-radius: 5px;
+    color: white;
+
 }
 
 .card-photo {

@@ -9,3 +9,8 @@
     gap: 10px;
     flex-wrap: wrap;
 }
+.area{
+    width: 200px;
+    margin: 0 auto;
+    border: 1px solid gray;
+}
